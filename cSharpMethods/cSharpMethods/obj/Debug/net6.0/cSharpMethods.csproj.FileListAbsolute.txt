@@ -1,0 +1,15 @@
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\bin\Debug\net6.0\cSharpMethods.exe
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\bin\Debug\net6.0\cSharpMethods.deps.json
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\bin\Debug\net6.0\cSharpMethods.runtimeconfig.json
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\bin\Debug\net6.0\cSharpMethods.dll
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\bin\Debug\net6.0\cSharpMethods.pdb
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.csproj.AssemblyReference.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.AssemblyInfoInputs.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.AssemblyInfo.cs
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.dll
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\refint\cSharpMethods.dll
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.pdb
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\cSharpMethods.genruntimeconfig.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpMethods\cSharpMethods\obj\Debug\net6.0\ref\cSharpMethods.dll
