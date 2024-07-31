@@ -1,0 +1,15 @@
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\bin\Debug\net6.0\cSharpClass.exe
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\bin\Debug\net6.0\cSharpClass.deps.json
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\bin\Debug\net6.0\cSharpClass.runtimeconfig.json
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\bin\Debug\net6.0\cSharpClass.dll
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\bin\Debug\net6.0\cSharpClass.pdb
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.csproj.AssemblyReference.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.AssemblyInfoInputs.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.AssemblyInfo.cs
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.dll
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\refint\cSharpClass.dll
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.pdb
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\cSharpClass.genruntimeconfig.cache
+C:\Users\usman\source\repos\CSharpTrg\cSharpClass\cSharpClass\obj\Debug\net6.0\ref\cSharpClass.dll
